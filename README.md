@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi I am Kaavya Nair 👋
+🎓 Robotics & AI Engineering Student
+💡 Interested in Machine Learning, Computer Vision, and Generative AI
+📚 Currently learning Deep Learning and DSA
+🚀 Building AI projects and exploring robotics systems
 
-<!--
-**Kaavya-ai/Kaavya-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- Python
+- C
+- Machine Learning
+- OpenCV
+- Deep Learning
+- Git & GitHub
 
-Here are some ideas to get you started:
+## Current Goals
+- Build strong AI projects
+- Contribute to open source
+- Prepare for Master's in Germany
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect With Me
+LinkedIn: www.linkedin.com/in/kaavya-nair
+Email: nairkaavya66@gmail.com
