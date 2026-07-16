@@ -6,11 +6,10 @@
 
 ## Skills
 - Python
-- C
 - Machine Learning
 - OpenCV
 - Deep Learning
-- Git & GitHub
+- GitHub
 
 ## Current Goals
 - Build strong AI projects
